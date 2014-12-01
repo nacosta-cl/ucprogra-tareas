@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Un mapa está hecho de entidades">
+    <Position X="3.188" Y="1.968" Height="0.49" Width="1.7" />
+  </Comment>
+  <Class Name="Tarea_1.Buscador">
+    <Position X="3.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAAAAAAAAAAABIAAAAAAEAhAAAgA=</HashCode>
+      <FileName>Buscador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Entidad">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="forma" Hidden="true" />
+      <Field Name="material" Hidden="true" />
+      <Field Name="posx" Hidden="true" />
+      <Field Name="posy" Hidden="true" />
+      <Field Name="vel_lineal" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAAAAAAAAACAAAAAAAAADAABAAAABAAAA=</HashCode>
+      <FileName>Entidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Golpeador">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAEAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Golpeador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Guardian">
+    <Position X="3.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAACAAAAAIEAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guardian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Pelota">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pelota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Program">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Quaffle">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quaffle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Snitch">
+    <Position X="8" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Snitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Jugador">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABCAAAAAAAAAQAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Mapa">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAIgAAAAAA=</HashCode>
+      <FileName>Mapa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Bludger">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAIAAEAAQACAIAAAgAA=</HashCode>
+      <FileName>Bludger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarea_1.Cazador">
+    <Position X="0.75" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="Tarea_1.Jugador" FixedToPoint="true">
+      <Path>
+        <Point X="1.5" Y="5.261" />
+        <Point X="1.5" Y="6.125" />
+        <Point X="2.16" Y="6.125" />
+        <Point X="2.16" Y="9.01" />
+        <Point X="1.438" Y="9.01" />
+        <Point X="1.438" Y="9.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAACAAAAAAAAAgEAIABAAAgAAAAAQQAAAAwAAAAAgA=</HashCode>
+      <FileName>Cazador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea 2", "Tarea 2\Tarea 2.csproj", "{0BD61C8A-0175-4509-8253-5EE7C360BD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0BD61C8A-0175-4509-8253-5EE7C360BD8D}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

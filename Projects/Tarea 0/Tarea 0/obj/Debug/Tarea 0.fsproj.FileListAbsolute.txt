@@ -1,0 +1,22 @@
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.exe.config
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.XML
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.exe
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.pdb
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\BibliotecaT0.dll
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\FSharp.Core.dll
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\FSharp.Core.xml
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\obj\Debug\Tarea 0.fsprojResolveAssemblyReference.cache
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\obj\Debug\Tarea_0.exe
+c:\users\nacosta\documents\visual studio 2012\Projects\Tarea 0\Tarea 0\obj\Debug\Tarea_0.pdb
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.XML
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\obj\Debug\Tarea 0.fsprojResolveAssemblyReference.cache
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\obj\Debug\Tarea_0.exe
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\obj\Debug\Tarea_0.pdb
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.exe.config
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.exe
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\Tarea_0.pdb
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\BibliotecaT0.dll
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\FSharp.Core.dll
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\FSharp.Core.xml
+C:\Users\Nacosta\Documents\DEV\iic2233\Projects\Tarea 0\Tarea 0\bin\Debug\es\FSharp.Core.resources.dll
