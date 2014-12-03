@@ -144,26 +144,20 @@ namespace Tarea_6
         void clienteAsociado_ConexionPerdida()
         {
             Dispatcher.BeginInvoke(new Action(() =>
-                    {
+                {
                 if (this.IsActive)
                 {
-                    MessageBoxResult res = new MessageBoxResult();
-                    
-                    MessageBox.Show("Advertencia: Se perdió la conexión " + '\n' + "¿Desea continuar?", "Advertencia", MessageBoxButton.YesNo, MessageBoxImage.Exclamation, res, MessageBoxOptions.None);
-                    
-                    if (res == MessageBoxResult.Yes)
-                    {
-
-                    }
-                    else if (res == MessageBoxResult.None)
-                    {
-                        //Dispatcher.BeginInvoke(new Action(() =>
-                        //{
-                            this.Close();
-                        //}));
-                    }
+                    this.MFD();
                 }
-                    }));
+            }));
+        }
+
+        void MFD()
+        {
+            MessageBoxResult res = new MessageBoxResult();
+
+            MessageBox.Show(this,"Advertencia: Se perdió la conexión " + '\n' + "Los cambios realizados solo permaneceran de forma local", "Advertencia", MessageBoxButton.OK, MessageBoxImage.Exclamation, res, MessageBoxOptions.None);
+
         }
         void clienteAsociado_pushRecibido(PaqueteEdit msg)
         {
